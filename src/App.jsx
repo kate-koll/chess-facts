@@ -29,7 +29,8 @@ function App() {
   const filteredData = facts.facts.filter((item) => {
     const matchesCategory =
       filters.category === "" || item.category === filters.category;
-    const matchesEra = filters.era === "" || item.century.includes(filters.era);
+    const matchesEra = filters.era === "" || 
+  new RegExp(`\\b${filters.era}\\b`, 'i').test(item.century);
     const matchesPhase = filters.phase === "" || item.phase === filters.phase;
 
     const favorites = getFavorites();
