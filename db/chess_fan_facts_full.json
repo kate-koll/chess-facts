@@ -1,0 +1,397 @@
+{
+  "facts": [
+    {
+      "category": "Player",
+      "fact": "Wilhelm Steinitz was the first official World Champion (1886–94); he pioneered positional play over Romantic tactics.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 1
+    },
+    {
+      "category": "Player",
+      "fact": "Emanuel Lasker held the World Champion title for the longest time—26 years and 337 days.",
+      "century": "19th – 20th century",
+      "phase": "General",
+      "like": false,
+      "id": 2
+    },
+    {
+      "category": "Player",
+      "fact": "Adolf Anderssen played the iconic 'Immortal Game' in 1851, sacrificing his queen and both rooks to force mate.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 3
+    },
+    {
+      "category": "Player",
+      "fact": "Lionel Kieseritzky was Anderssen’s opponent in the famous 'Immortal Game' of 1851.",
+      "century": "19th century",
+      "phase": "Middlegame",
+      "like": false,
+      "id": 4
+    },
+    {
+      "category": "Player",
+      "fact": "Howard Staunton was the strongest player of the 1840s and popularised the Staunton-style chess pieces still used today.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 5
+    },
+    {
+      "category": "Player",
+      "fact": "Samuel Reshevsky was a child prodigy in the 1920s, playing exhibitions against masters at the age of six.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 6
+    },
+    {
+      "category": "Player",
+      "fact": "Bobby Fischer’s 1972 victory over Boris Spassky helped popularize chess worldwide.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 7
+    },
+    {
+      "category": "Player",
+      "fact": "Garry Kasparov became the youngest world champion in 1985 at the age of 22 and lost to Deep Blue in 1997.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 8
+    },
+    {
+      "category": "Player",
+      "fact": "Viswanathan Anand became India’s first grandmaster in 1988 and was World Champion five times.",
+      "century": "20th – 21st century",
+      "phase": "General",
+      "like": false,
+      "id": 9
+    },
+    {
+      "category": "Player",
+      "fact": "Magnus Carlsen reached the highest Elo rating in history (2882) and has been World Champion since 2013.",
+      "century": "21st century",
+      "phase": "General",
+      "like": false,
+      "id": 10
+    },
+    {
+      "category": "Player",
+      "fact": "Abhimanyu Mishra became the youngest-ever grandmaster at 12 years, 4 months, and 25 days in 2021.",
+      "century": "21st century",
+      "phase": "General",
+      "like": false,
+      "id": 11
+    },
+    {
+      "category": "Player",
+      "fact": "Ehsan Ghaem-Maghami played the largest simultaneous exhibition in history—604 boards—in under 25 hours in 2011.",
+      "century": "21st century",
+      "phase": "General",
+      "like": false,
+      "id": 12
+    },
+    {
+      "category": "Player",
+      "fact": "Susan Polgar won 309 of 326 games in a simultaneous exhibition in 2005.",
+      "century": "21st century",
+      "phase": "General",
+      "like": false,
+      "id": 13
+    },
+    {
+      "category": "Player",
+      "fact": "Nicholas MacLeod lost 31 out of 38 games at the Sixth American Chess Congress in 1889, a record for most losses.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 14
+    },
+    {
+      "category": "General",
+      "fact": "Chess originated in India during the 6th century as 'Chaturanga', meaning four divisions of the army.",
+      "century": "6th century",
+      "phase": "General",
+      "like": false,
+      "id": 15
+    },
+    {
+      "category": "General",
+      "fact": "The term 'checkmate' comes from the Persian 'Shāh māt', meaning 'the king is helpless' or 'the king is dead'.",
+      "century": "7th century",
+      "phase": "Endgame",
+      "like": false,
+      "id": 16
+    },
+    {
+      "category": "General",
+      "fact": "Alternating light and dark squares on chessboards first appeared in Europe around 1090 AD.",
+      "century": "11th century",
+      "phase": "General",
+      "like": false,
+      "id": 17
+    },
+    {
+      "category": "General",
+      "fact": "The modern queen’s powerful movement was introduced in 15th-century Spain.",
+      "century": "15th century",
+      "phase": "General",
+      "like": false,
+      "id": 18
+    },
+    {
+      "category": "General",
+      "fact": "Castling rules were finalized in the 17th century; previously, castling required two separate moves.",
+      "century": "17th century",
+      "phase": "Opening",
+      "like": false,
+      "id": 19
+    },
+    {
+      "category": "General",
+      "fact": "The pawn's ability to move two squares on its first move appeared around 1280 in Spain.",
+      "century": "13th century",
+      "phase": "Opening",
+      "like": false,
+      "id": 20
+    },
+    {
+      "category": "General",
+      "fact": "The Staunton chess set, designed in 1849, became the standard for tournament play.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 21
+    },
+    {
+      "category": "General",
+      "fact": "The first international chess tournament was held in London in 1851, organized by Howard Staunton.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 22
+    },
+    {
+      "category": "General",
+      "fact": "Chess clocks were first used in tournament play in the 1880s, replacing hourglasses.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 23
+    },
+    {
+      "category": "General",
+      "fact": "Claude Shannon estimated the number of possible chess games to be about 10^120, known as 'Shannon's Number'.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 24
+    },
+    {
+      "category": "General",
+      "fact": "The longest theoretically possible chess game under modern rules is 5,949 moves.",
+      "century": "21st century",
+      "phase": "Endgame",
+      "like": false,
+      "id": 25
+    },
+    {
+      "category": "General",
+      "fact": "The longest recorded game in chess history lasted 269 moves and over 20 hours (Nikolic–Arsovic, 1989).",
+      "century": "20th century",
+      "phase": "Endgame",
+      "like": false,
+      "id": 26
+    },
+    {
+      "category": "General",
+      "fact": "The latest first capture in a professional game occurred on move 94 (Williams–Rogoff, 1969).",
+      "century": "20th century",
+      "phase": "Middlegame",
+      "like": false,
+      "id": 27
+    },
+    {
+      "category": "General",
+      "fact": "The shortest decisive professional game ended in just three moves (Đorđević–Kovačević, 1984).",
+      "century": "20th century",
+      "phase": "Opening",
+      "like": false,
+      "id": 28
+    },
+    {
+      "category": "General",
+      "fact": "The Lewis Chessmen, discovered in Scotland, date back to the 12th century and are among the oldest known sets.",
+      "century": "12th century",
+      "phase": "General",
+      "like": false,
+      "id": 29
+    },
+    {
+      "category": "Player",
+      "fact": "Judith Polgar became the youngest grandmaster at the time in 1991, breaking Bobby Fischer’s record.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 30
+    },
+    {
+      "category": "Player",
+      "fact": "Paul Morphy, often considered a chess prodigy, dominated the mid-19th century and retired early.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 31
+    },
+    {
+      "category": "Player",
+      "fact": "José Raúl Capablanca was World Champion from 1921 to 1927 and known for his intuitive endgame mastery.",
+      "century": "20th century",
+      "phase": "Endgame",
+      "like": false,
+      "id": 32
+    },
+    {
+      "category": "Player",
+      "fact": "Alexander Alekhine was the first World Champion to die while holding the title.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 33
+    },
+    {
+      "category": "Player",
+      "fact": "Mikhail Tal, the 'Magician from Riga', was known for his daring and sacrificial attacking style.",
+      "century": "20th century",
+      "phase": "Middlegame",
+      "like": false,
+      "id": 34
+    },
+    {
+      "category": "Player",
+      "fact": "Tigran Petrosian, World Champion from 1963–1969, was known for his fortress-like defensive style.",
+      "century": "20th century",
+      "phase": "Endgame",
+      "like": false,
+      "id": 35
+    },
+    {
+      "category": "Player",
+      "fact": "Vladimir Kramnik defeated Garry Kasparov in 2000 and introduced deep preparation against the Berlin Defense.",
+      "century": "21st century",
+      "phase": "Opening",
+      "like": false,
+      "id": 36
+    },
+    {
+      "category": "Player",
+      "fact": "Anatoly Karpov became World Champion without a match in 1975 when Fischer refused to defend his title.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 37
+    },
+    {
+      "category": "Player",
+      "fact": "Jan Timman was known as the 'Best of the West' during the Cold War chess era.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 38
+    },
+    {
+      "category": "Player",
+      "fact": "Hou Yifan is the strongest female chess player of the 21st century century and a former Women’s World Champion.",
+      "century": "21st century",
+      "phase": "General",
+      "like": false,
+      "id": 39
+    },
+    {
+      "category": "Player",
+      "fact": "Nona Gaprindashvili was the first woman to be awarded the Grandmaster title by FIDE in 1978.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 40
+    },
+    {
+      "category": "Player",
+      "fact": "Ulf Andersson was renowned for his mastery of slow positional grinds in the 1980s.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 41
+    },
+    {
+      "category": "General",
+      "fact": "Chess was banned in France in 1254 by King Louis IX as it was seen as a distraction.",
+      "century": "13th century",
+      "phase": "General",
+      "like": false,
+      "id": 42
+    },
+    {
+      "category": "General",
+      "fact": "Napoleon Bonaparte was an avid chess player, though not particularly strong.",
+      "century": "19th century",
+      "phase": "General",
+      "like": false,
+      "id": 43
+    },
+    {
+      "category": "General",
+      "fact": "Chess appeared in the first printed book on games, 'Libro de los Juegos', commissioned by Alfonso X in 1283.",
+      "century": "13th century",
+      "phase": "General",
+      "like": false,
+      "id": 44
+    },
+    {
+      "category": "General",
+      "fact": "Benjamin Franklin wrote an essay called 'The Morals of Chess' in 1786 promoting its intellectual benefits.",
+      "century": "18th century",
+      "phase": "General",
+      "like": false,
+      "id": 45
+    },
+    {
+      "category": "General",
+      "fact": "FIDE (Fédération Internationale des Échecs) was founded in 1924 in Paris to oversee international chess.",
+      "century": "20th century",
+      "phase": "General",
+      "like": false,
+      "id": 46
+    },
+    {
+      "category": "General",
+      "fact": "Chess960, or Fischer Random, was invented by Bobby Fischer to eliminate opening preparation.",
+      "century": "20th century",
+      "phase": "Opening",
+      "like": false,
+      "id": 47
+    },
+    {
+      "category": "General",
+      "fact": "The ‘en passant’ rule for pawn captures was standardized in the 15th century.",
+      "century": "15th century",
+      "phase": "Opening",
+      "like": false,
+      "id": 48
+    },
+    {
+      "category": "General",
+      "fact": "The Berlin Defense became famous after Kramnik used it to defeat Kasparov in 2000.",
+      "century": "21st century",
+      "phase": "Opening",
+      "like": false,
+      "id": 49
+
+    }
+  ]
+}
